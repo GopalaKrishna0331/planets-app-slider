@@ -1,0 +1,23 @@
+.contanier {
+  font-family: 'roboto';
+  align-self: center;
+}
+
+.img {
+  width: 50%;
+}
+
+.heading {
+  color: #f8fafc;
+  font-size: 18px;
+}
+
+.para {
+  color: #f1f5f9;
+  font-size: 16px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
